@@ -1,16 +1,18 @@
-## Hi there 👋
+### Olá, eu sou Alberto Filipe 👋 | Python Dev de Luanda 🇦🇴
 
-<!--
-**alberto-python-luanda/alberto-python-luanda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> 🚗 Programando 100% PELO CELULAR rumo ao meu Audi Q5 preto
+> 🔥 Te ensino o PROCESSO que ninguém te conta
 
-Here are some ideas to get you started:
+### 🚀 Meus Projetos
+- 🧮 **calculadora-teste** - Calculadora feita no celular
+- ✅ **lista-tarefas** - Minha lista de tarefas em Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Minha Stack no Celular
+`Python` `Git` `GitHub` `Mobile Dev`
+
+### 📲 Vamos trocar ideia?
+📧 albertofilipefilipe95@gmail.com
+💬 Manda "PROCESSO" no meu privado
+
+---
+⭐ Feito de Luanda para o mundo!
