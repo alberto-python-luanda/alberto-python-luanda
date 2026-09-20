@@ -20,9 +20,9 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-
-### 📊 GitHub Stats
-![Alberto's GitHub stats](https://github-readme-stats.vercel.app/api?username=alberto-python-luanda&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alberto-python-luanda&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alberto-python-luanda&layout=compact&theme=tokyonight)
+(https://github-readme-stats.vercel.app/api?username=alberto-python-luanda&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alberto-python-luanda&layout=compact&theme=radical)
 
 ---
